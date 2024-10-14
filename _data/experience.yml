@@ -1,7 +1,7 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
+    degreepath: MBA # for type.education.
     institution: University University
     department: Lorem Ipsum
     advisors: Jane Doe, John Doe # for type.education.
