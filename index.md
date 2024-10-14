@@ -10,7 +10,9 @@ Testing here
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
-
+- **Professional Development:** meta-learning, incremental learning, transfer learning
+- **Health Advancements:** meta-learning, incremental learning, transfer learning
+  
 {% include_relative _includes/education.md %}
 
 {% include_relative _includes/employment.md %}
